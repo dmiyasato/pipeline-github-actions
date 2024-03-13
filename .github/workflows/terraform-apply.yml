@@ -1,4 +1,3 @@
-#GitHub Action
 name: Terraform Apply
 on: workflow_dispatch
 env:
